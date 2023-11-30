@@ -1,6 +1,14 @@
 # Stock-Prophets
 CS337 AI/ML Project 
 
+## Team Members
+|Roll No. | Team Member                  |
+|-----|------------------------------|
+| 210050043   | Desai Sai Pranav |
+| 210050051   | Gangisetty Krishna Sai Kusal |
+| 210050120 | PVR Sai Kumar |
+| 210050153 | Sudarshanam Harshith |
+
 Our project aims to predict the closing price of the stock using LSTM and GRU
 
 StockMarketv1.ipynb has a code that tries to predict closing prices using only closing prices. Models used are LSTM and GRU 
